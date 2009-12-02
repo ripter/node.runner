@@ -1,0 +1,3 @@
+Reloads node if any file in the directory changes. Use this instead of stopping and restartind node while developing.
+
+usage: ./node runner.js code/start.js
