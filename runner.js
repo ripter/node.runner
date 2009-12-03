@@ -11,7 +11,6 @@ var file = process.cwd() + "/" + process.ARGV[2];
 //Watch the Directory for changes
 var reg = /\/.*\//;
 
-sys.puts( "Regex: " +  );
 //This will create and run the child process.
 function run()
 {
